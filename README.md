@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 - 🤝 I'm open to collaborating on interesting projects.
 
+- 💬 Check out my portfolio (Still buildinig it) - https://richiegarafola-portfolio.streamlitapp.com/
+
 - 📫 How to reach me **RichieGarafola@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>

@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [www.github.com/RichieGarafola](www.github.com/RichieGarafola)
 
+- ⚡ Speedy EDA Tool: https://richiegarafola-eda.streamlitapp.com/
+
 - 🤝 I'm open to collaborating on interesting projects.
 
 - 📫 How to reach me **RichieGarafola@hotmail.com**

@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [NotFinancialAdvice](https://richiegarafola-nfa-notfinancialadvice-home-395c34.streamlitapp.com/)
 
-- 👨‍💻 All of my projects are available at [www.github.com/RichieGarafola](www.github.com/RichieGarafola)
+- 👨‍💻 All of my projects are available at [www.github.com/RichieGarafola](github.com/RichieGarafola)
 
 - ⚡ Speedy EDA Tool: https://richiegarafola-eda.streamlitapp.com/
 

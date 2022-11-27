@@ -31,4 +31,4 @@ if __name__ == "__main__":
     if r.status_code == 200:
         data = r.json()
         temperature = data["forecast"]["temp"]
-        logger.info(f'Weather in Berlin: {temperature}')
+        logger.info(f'Weather in New York: {temperature}')

@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 ---
 <!-- Snake Actions -->
 
+**Snake Eating my contribution graph**
 ![snake gif](https://github.com/RichieGarafola/RichieGarafola/blob/output/github-contribution-grid-snake.gif)
 
 ---

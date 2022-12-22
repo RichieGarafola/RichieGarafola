@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 
 ---
 <!-- Snake Actions -->
+<!-- https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
 
 **Snake Eating my contribution graph**
 ![snake gif](https://github.com/RichieGarafola/RichieGarafola/blob/output/github-contribution-grid-snake.gif)

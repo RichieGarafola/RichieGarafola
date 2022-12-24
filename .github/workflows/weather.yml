@@ -1,0 +1,32 @@
+name: Weather Workflow
+on: [push]
+
+jobs:
+  check-weather:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check weather
+      run: |
+        # Install required packages
+        python3 -m pip install requests bs4
+
+        # Scrape weather data from a website
+        import requests
+        from bs4 import BeautifulSoup
+
+        # Make a request to the website
+        response = requests.get("https://www.weather.com/weather/today/l/11738:4:US")
+
+        # Parse the HTML of the page
+        soup = BeautifulSoup(response.text, "html.parser")
+
+        # Find the element containing the weather data
+        weather_element = soup.find(class_="today_nowcard-temp")
+
+        # Extract the temperature and condition from the element
+        temperature = weather_element.find(class_="deg-feels").get_text()
+        condition = weather_element.find(class_="phrase").get_text()
+
+        # Print the weather data to the console
+        print(f"Temperature: {temperature}")
+        print(f"Condition: {condition}")

@@ -1,64 +1,196 @@
-<!--
-**RichieGarafola/RichieGarafola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hi 👋 I'm Richie Garafola
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Data Analytics | Automation | Python Development | Business Intelligence
 
+Transforming complex data into actionable insights through analytics, automation, and modern data solutions.
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<img src="https://komarev.com/ghpvc/?username=richiegarafola&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
 </div>
 
+---
 
+## About Me
 
-<h1 align="center">Hi 👋, I'm Richie Garafola</h1>
-<h3 align="center">A passionate Python Developer from New York.</h3>
+I'm a Data Analytics and Automation professional based in New York with experience building data-driven solutions that improve reporting, decision-making, and operational efficiency.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=richiegarafola&label=Profile%20views&color=0e75b6&style=flat" alt="richiegarafola" /> </p>
-
-- 🔭 I’m currently working on [NotFinancialAdvice](https://richiegarafola-nfa-notfinancialadvice-home-395c34.streamlitapp.com/)
-
-- 👨‍💻 All of my projects are available at [https://github.com/RichieGarafola](https://github.com/RichieGarafola)
-
-- ⚡ Speedy EDA Tool: https://richiegarafola-eda.streamlitapp.com/
-
-- 🤝 I'm open to collaborating on interesting projects.
-
-- 💬 Check out my portfolio (Still buildinig it) - https://richiegarafola-portfolio.streamlitapp.com/
-
-- 📫 How to reach me **RichieGarafola@hotmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/richiegarafola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richiegarafola" height="30" width="40" /></a>
-</p>
-
-
-<h3 align="left"> :hammer_and_wrench: Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-
+My work combines analytics, finance, automation, and software development to transform complex datasets into meaningful business intelligence. I enjoy building dashboards, automation tools, data applications, and reporting systems using Python, SQL, Power BI, Streamlit, and modern analytics technologies.
 
 ---
-<!-- Snake Actions -->
-<!-- https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
 
-**Snake Eating my contribution graph**
+## Current Focus
+
+- 📊 Data Analytics & Business Intelligence
+- 🤖 Process Automation & Workflow Optimization
+- 📈 Financial & Operational Reporting
+- 🐍 Python Development & Data Engineering
+- 🧠 AI-Powered Analytics Solutions
+- ☁️ Cloud & Modern Data Technologies
+
+---
+
+## Featured Projects
+
+### 📊 Data Analytics Applications
+
+Interactive analytics solutions built with Python, SQL, Pandas, Plotly, and Streamlit to transform raw data into actionable insights.
+
+**Focus Areas**
+- Exploratory Data Analysis (EDA)
+- Dashboard Development
+- KPI Reporting
+- Data Visualization
+- Business Intelligence
+
+---
+
+### 🤖 Automation & Productivity Tools
+
+Tools designed to eliminate repetitive work and improve efficiency through automation.
+
+**Focus Areas**
+- Workflow Automation
+- Data Processing
+- Reporting Automation
+- API Integrations
+- Process Optimization
+
+---
+
+### 📈 Financial Analytics Projects
+
+Projects focused on financial modeling, market analysis, forecasting, and quantitative decision support.
+
+**Focus Areas**
+- Financial Analysis
+- Market Research
+- Forecasting Models
+- Performance Tracking
+- Data-Driven Decision Making
+
+---
+
+### 🧠 AI & Machine Learning Experiments
+
+Exploring practical applications of artificial intelligence and machine learning for business and analytics use cases.
+
+**Focus Areas**
+- Predictive Analytics
+- Natural Language Processing
+- Classification Models
+- Recommendation Systems
+- AI-Assisted Decision Support
+
+---
+
+## Current Projects
+
+### 🔭 Not Financial Advice
+
+A Python and Streamlit-based financial analytics platform focused on market research, visualization, and investment analysis.
+
+🔗 https://richiegarafola-nfa-notfinancialadvice-home-395c34.streamlit.app/
+
+---
+
+### ⚡ Speedy EDA Tool
+
+An interactive exploratory data analysis application designed to accelerate data profiling and insight generation.
+
+🔗 https://richiegarafola-eda.streamlit.app/
+
+---
+
+### 🌐 Personal Portfolio
+
+A centralized showcase of projects, technical skills, and ongoing development work.
+
+🔗 https://richiegarafola-portfolio.streamlit.app/
+
+---
+
+## Certifications & Education
+
+- CompTIA Project+
+- Arizona State University FinTech Bootcamp Graduate
+- Prompt Engineering Certification
+- B.S. Data Analytics Studies
+
+---
+
+## Technical Skills
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Data & Analytics
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+
+### Development & Automation
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+
+### Cloud & Data Platforms
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Power_Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge)
+
+---
+
+## Currently Learning
+
+- Advanced Data Engineering
+- Cloud Analytics & AWS
+- AI-Assisted Development Workflows
+- Modern Data Architecture
+- Machine Learning Applications
+
+---
+
+## Connect With Me
+
+### LinkedIn
+
+<a href="https://linkedin.com/in/richiegarafola">
+<img src="https://img.shields.io/badge/LinkedIn-Richie%20Garafola-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+### Email
+
+📫 RichieGarafola@hotmail.com
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RichieGarafola&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RichieGarafola" />
+</p>
+
+---
+
+## Contribution Activity
+
 ![snake gif](https://github.com/RichieGarafola/RichieGarafola/blob/output/github-contribution-grid-snake.gif)
 
 ---
 
-<!-- BLOG-POST-LIST:START -->
+<div align="center">
 
+### Building practical solutions that turn data into decisions.
 
-<!-- BLOG-POST-LIST:END -->
-
+</div>

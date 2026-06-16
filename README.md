@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Richie Garafola
 
-### Data Analytics | Automation | Python Development | Business Intelligence
+### Technical Analyst | Data Analytics | Automation | Business Intelligence
 
 Transforming complex data into actionable insights through analytics, automation, and modern data solutions.
 

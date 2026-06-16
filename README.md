@@ -31,83 +31,48 @@ My work combines analytics, finance, automation, and software development to tra
 
 ---
 
-## Featured Projects
+## What I Enjoy Building
 
-### 📊 Data Analytics Applications
-
-Interactive analytics solutions built with Python, SQL, Pandas, Plotly, and Streamlit to transform raw data into actionable insights.
-
-**Focus Areas**
-- Exploratory Data Analysis (EDA)
-- Dashboard Development
-- KPI Reporting
-- Data Visualization
-- Business Intelligence
+- Interactive data applications
+- Reporting and dashboard solutions
+- Business process automation tools
+- Financial analytics platforms
+- AI-assisted decision support systems
+- Data quality and validation frameworks
+- Workflow optimization solutions
 
 ---
 
-### 🤖 Automation & Productivity Tools
+## Recent Work
 
-Tools designed to eliminate repetitive work and improve efficiency through automation.
+### 📊 Analytics Applications
 
-**Focus Areas**
-- Workflow Automation
-- Data Processing
-- Reporting Automation
-- API Integrations
-- Process Optimization
+Building data-driven applications that transform raw information into actionable business insights through dashboards, visualizations, reporting systems, and interactive analytics experiences.
 
----
+### 🤖 Automation Solutions
 
-### 📈 Financial Analytics Projects
+Designing tools that reduce manual effort through workflow automation, process optimization, data transformation, and intelligent reporting solutions.
 
-Projects focused on financial modeling, market analysis, forecasting, and quantitative decision support.
+### 📈 Financial Analytics
 
-**Focus Areas**
-- Financial Analysis
-- Market Research
-- Forecasting Models
-- Performance Tracking
-- Data-Driven Decision Making
+Developing reporting, forecasting, performance monitoring, and analytical solutions that support data-driven decision-making.
+
+### 🧠 AI & Data Products
+
+Exploring practical applications of artificial intelligence, machine learning, and modern analytics technologies to enhance business intelligence and operational efficiency.
 
 ---
 
-### 🧠 AI & Machine Learning Experiments
+## Areas of Expertise
 
-Exploring practical applications of artificial intelligence and machine learning for business and analytics use cases.
-
-**Focus Areas**
-- Predictive Analytics
-- Natural Language Processing
-- Classification Models
-- Recommendation Systems
-- AI-Assisted Decision Support
-
----
-
-## Current Projects
-
-### 🔭 Not Financial Advice
-
-A Python and Streamlit-based financial analytics platform focused on market research, visualization, and investment analysis.
-
-🔗 https://richiegarafola-nfa-notfinancialadvice-home-395c34.streamlit.app/
-
----
-
-### ⚡ Speedy EDA Tool
-
-An interactive exploratory data analysis application designed to accelerate data profiling and insight generation.
-
-🔗 https://richiegarafola-eda.streamlit.app/
-
----
-
-### 🌐 Personal Portfolio
-
-A centralized showcase of projects, technical skills, and ongoing development work.
-
-🔗 https://richiegarafola-portfolio.streamlit.app/
+- Data Analytics & Reporting
+- Financial Analysis & FP&A Support
+- Business Intelligence & Dashboard Development
+- Process Automation & Workflow Optimization
+- Data Engineering & ETL Workflows
+- Python Application Development
+- SQL & Database Solutions
+- AI-Enabled Analytics
 
 ---
 
@@ -143,7 +108,7 @@ A centralized showcase of projects, technical skills, and ongoing development wo
 ### Cloud & Data Platforms
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Power_Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge)
 
 ---
 

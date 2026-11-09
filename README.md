@@ -1,161 +1,46 @@
-<div align="center">
+# Richie Garafola
 
-# Hi 👋 I'm Richie Garafola
+**Data engineer and financial analytics developer.** I build dependable data products for finance
+and operations: pipelines that validate their inputs, reconciliations that explain every
+difference, and reports that can be reproduced from source.
 
-### Technical Analyst | Data Analytics | Automation | Business Intelligence
+New York · open to remote roles · [LinkedIn](https://linkedin.com/in/richiegarafola)
 
-Transforming complex data into actionable insights through analytics, automation, and modern data solutions.
+## What I build
 
-<img src="https://komarev.com/ghpvc/?username=richiegarafola&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+- **Reconciliation and validation.** Exact-decimal matching, quarantined bad records instead of
+  guesses, and exception queues whose review history never alters the original findings.
+- **Pipelines with data quality built in.** Typed ingestion, ordered and testable transformation
+  steps, per-step audit logs, and explicit quality checks.
+- **Reporting people can trust.** Versioned SQL reporting views, Power BI semantic models with
+  documented DAX measures and Power Query, and Excel outputs traceable to source rows.
+- **Automation that runs unattended.** CLI-first tools with automated tests and CI.
 
-</div>
+## Featured projects
 
----
+| Project | What it does | Built with |
+|---|---|---|
+| [**ReconcileKit**](https://github.com/RichieGarafola/ReconcileKit) | Reconciles an invoice register against a payment ledger in exact integer cents. Quarantines invalid and duplicate rows, ties totals out through a reconciliation bridge checked on every run, keeps an append-only review trail, and publishes versioned read-only SQL views and a Power BI report. | Python · DuckDB SQL · Parquet · Power BI (DAX, Power Query, PBIP) · Streamlit · pytest · GitHub Actions |
+| [**DeltaAnalysis**](https://github.com/RichieGarafola/DeltaAnalysis) | Compares two versions of a CSV or Excel dataset in both directions: records found in only one source, field-level differences with numeric and date tolerances, and duplicate identifiers. Produces an Excel report traceable to source rows. | Python · pandas · Streamlit · pytest |
+| [**etl-pipeline-builder**](https://github.com/RichieGarafola/etl-pipeline-builder) | Runs raw CSV data through named, ordered transformation steps written as pure functions, and produces clean output with a per-step audit trail. | Python · pandas · Streamlit · pytest |
+| [**budget-variance-analyzer**](https://github.com/RichieGarafola/budget-variance-analyzer) | Compares budget and actuals by department, category, and month. Classifies variances against configurable thresholds and projects year-end spend from the year-to-date run rate. | Python · pandas · Streamlit · pytest |
+| [**docutil**](https://github.com/RichieGarafola/docutil) | A command-line tool for repeatable DOCX ↔ Markdown conversion and batch document processing, designed for scripts and CI. | Python · CLI · GitHub Actions |
 
-## About Me
+## How I work
 
-I'm a Data Analytics and Automation professional based in New York with experience building data-driven solutions that improve reporting, decision-making, and operational efficiency.
+- Money is exact: no floating-point currency and no silent rounding.
+- Automated findings and human decisions are stored separately, and history is appended rather than overwritten.
+- Outputs are deterministic and covered by tests that run in CI on every change.
+- Every reported number can be traced back to the source record it came from.
 
-My work combines analytics, finance, automation, and software development to transform complex datasets into meaningful business intelligence. I enjoy building dashboards, automation tools, data applications, and reporting systems using Python, SQL, Power BI, Streamlit, and modern analytics technologies.
+## Technical skills
 
----
+- **Data engineering:** Python, pandas, SQL (DuckDB), Parquet, ETL design, data validation and data quality
+- **Analytics and BI:** Power BI (DAX, Power Query, PBIP projects), Excel reporting automation, Streamlit
+- **Engineering practice:** pytest, GitHub Actions, Git, command-line tool design, Docker
 
-## Current Focus
+## Education and certifications
 
-- 📊 Data Analytics & Business Intelligence
-- 🤖 Process Automation & Workflow Optimization
-- 📈 Financial & Operational Reporting
-- 🐍 Python Development & Data Engineering
-- 🧠 AI-Powered Analytics Solutions
-- ☁️ Cloud & Modern Data Technologies
-
----
-
-## What I Enjoy Building
-
-- Interactive data applications
-- Reporting and dashboard solutions
-- Business process automation tools
-- Financial analytics platforms
-- AI-assisted decision support systems
-- Data quality and validation frameworks
-- Workflow optimization solutions
-
----
-
-## Recent Work
-
-### 📊 Analytics Applications
-
-Building data-driven applications that transform raw information into actionable business insights through dashboards, visualizations, reporting systems, and interactive analytics experiences.
-
-### 🤖 Automation Solutions
-
-Designing tools that reduce manual effort through workflow automation, process optimization, data transformation, and intelligent reporting solutions.
-
-### 📈 Financial Analytics
-
-Developing reporting, forecasting, performance monitoring, and analytical solutions that support data-driven decision-making.
-
-### 🧠 AI & Data Products
-
-Exploring practical applications of artificial intelligence, machine learning, and modern analytics technologies to enhance business intelligence and operational efficiency.
-
----
-
-## Areas of Expertise
-
-- Data Analytics & Reporting
-- Financial Analysis & FP&A Support
-- Business Intelligence & Dashboard Development
-- Process Automation & Workflow Optimization
-- Data Engineering & ETL Workflows
-- Python Application Development
-- SQL & Database Solutions
-- AI-Enabled Analytics
-
----
-
-## Certifications & Education
-
+- B.S. Computer Science — Capella University (2026)
+- Arizona State University FinTech Bootcamp
 - CompTIA Project+
-- Arizona State University FinTech Bootcamp Graduate
-- Prompt Engineering Certification
-- B.S. Data Analytics Studies
-
----
-
-## Technical Skills
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Data & Analytics
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-
-### Development & Automation
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-
-### Cloud & Data Platforms
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge)
-
----
-
-## Currently Learning
-
-- Advanced Data Engineering
-- Cloud Analytics & AWS
-- AI-Assisted Development Workflows
-- Modern Data Architecture
-- Machine Learning Applications
-
----
-
-## Connect With Me
-
-### LinkedIn
-
-<a href="https://linkedin.com/in/richiegarafola">
-<img src="https://img.shields.io/badge/LinkedIn-Richie%20Garafola-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-### Email
-
-📫 RichieGarafola@hotmail.com
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RichieGarafola&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RichieGarafola" />
-</p>
-
----
-
-## Contribution Activity
-
-![snake gif](https://github.com/RichieGarafola/RichieGarafola/blob/output/github-contribution-grid-snake.gif)
-
----
-
-<div align="center">
-
-### Building practical solutions that turn data into decisions.
-
-</div>

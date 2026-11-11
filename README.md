@@ -15,7 +15,7 @@ I turn fragmented operational and financial data into validated pipelines, expla
 
 ### [DeltaAnalysis](https://github.com/RichieGarafola/DeltaAnalysis) — Know what changed. See exactly where.
 
-**[Try the live application](https://deltaanalysis.streamlit.app) · [Source code](https://github.com/RichieGarafola/DeltaAnalysis)**
+**[Try the live application](https://deltaanalysis.streamlit.app)**
 
 A comparison tool for auditing changes between CSV and Excel datasets. It helps answer three practical questions: **What's new, what's missing, and what changed?**
 

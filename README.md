@@ -78,7 +78,7 @@ An invoice-to-payment reconciliation system designed around exact arithmetic, ex
 
 ## Background
 
-- **B.S., Computer Science** — Capella University (2026)
+- **B.S., Computer Science** — Capella University
 - **FinTech Bootcamp** — Arizona State University
 - **CompTIA Project+**
 - Experience in federal financial reporting, financial analytics, business intelligence, and reporting automation.
